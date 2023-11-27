@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cemm,
 - 👀 I’m mastering my Java, Selenium, and Python skills.
-- 💞️ I’m looking to collaborate on CDET and SD projects.
+- 💞️ I’m looking to collaborate on SD projects.
 - 📫 Reach out to me --> ccbildircin@gmail.com
 
 <!---
