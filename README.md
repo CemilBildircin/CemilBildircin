@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Cemm,
-- 👀 I’m mastering my Java, Selenium, and Python skills.
-- 💞️ I’m looking to collaborate on SD projects.
+- 👋 Hi, I’m Cem,
 - 📫 Reach out to me --> ccbildircin@gmail.com
 
 <!---
